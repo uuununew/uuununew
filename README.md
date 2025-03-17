@@ -11,6 +11,11 @@
   <img src="https://img.shields.io/badge/k8s-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white"/>&nbsp
+</div>
 
 
 <!--
