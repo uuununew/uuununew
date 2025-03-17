@@ -2,21 +2,31 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=uuununew&fontSize=90)
 
+<div>
+  <!--Body-->
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
+  ## 👀 About Me
+  #### :raising_hand: I am a Back-end Engineer from South Korea.<br/>
+  #### :fire: I aim to become a Back-end Engineer.<br/>
+  <br/>
+  <br/>
+
+  ## 💡 Tech Stack
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/k8s-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp
-</div>
-
-<div align="center">
+  <br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white"/>&nbsp
-</div>
+  <br/>
+  
+  ## 🤔 Github Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uuununew)](https://github.com/anuraghazra/github-readme-stats)
+    <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uuununew)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 <!--
 
