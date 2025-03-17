@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=uuununew&fontSize=90)
 
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={[깃헙 주소(url)](https://github.com/uuununew/uuununew.git)}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={[깃헙 주소(url)](https://github.com/uuununew/uuununew.git)}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
