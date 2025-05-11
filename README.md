@@ -37,6 +37,20 @@
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
   <br/>
   <br/>
+
+
+  ## 📰 Articles
+
+> **Articles**  
+
+- **낙관적 락 vs 비관적 락** (2025.04)  
+  [동시성 제어 보고서](https://www.notion.so/1decc24e9801802389cac505382fa35f?pvs=21)
+
+- **인덱스 최적화** (2025.04)  
+  [인덱스 최적화 보고서](https://www.notion.so/1d7cc24e980180fe948ac908e6ea12be?pvs=21)
+
+- **캐싱 전략** (2025.05)  
+  [캐싱 전략 설계 및 적용 보고서](https://www.notion.so/1edcc24e980180768447f07faf7f9f06?pvs=21)
   
   
   ## 🤔 Github Stats
