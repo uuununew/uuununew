@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### E-Mail
+#### uuununew@gmail.com
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=uuununew&fontSize=90)
 
 <div>
@@ -7,8 +10,9 @@
 
   ## 👀 About Me
   
-  #### :raising_hand: I am a Back-end Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Back-end Engineer.<br/>
+  #### : 유지보수가 쉬운 SW를 개발하고 싶어요.<br/>
+  #### : 개발 과정에서 항상 사용자의 입장을 생각해요.<br/>
+  #### : 꾸준하게 성장하려고 노력해요.<br/>
   <br/>
   <br/>
   
